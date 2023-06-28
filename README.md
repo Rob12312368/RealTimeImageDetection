@@ -5,7 +5,7 @@ I collected and labeled the images by myself. For more reference and the final d
 
 image.ipynb is for taking pictures, and Tutorial.ipynb is for setting the environment and detecting hand gestures.
 
-I refered to an amazing tutorial created by Nicolas on YouTube.
+I refered to an amazing tutorial created by Nicolas Renotte on YouTube.
 
 
 
