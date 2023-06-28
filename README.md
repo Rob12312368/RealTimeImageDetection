@@ -5,8 +5,11 @@ I collected and labeled the images by myself. For more reference and the final d
 
 image.ipynb is for taking pictures, and Tutorial.ipynb is for setting the environment and detecting hand gestures.
 
-Thanks to Nicholas Renotte's detailed tutorial on Youtube. I followed the instructions and saved lots of time.
-link: https://www.youtube.com/watch?v=yqkISICHH-U&t=9609s
 
+
+
+
+
+https://github.com/Rob12312368/RealTimeImageDetection/assets/56261402/6a1541aa-091d-4a20-af4b-66734e724cda
 
 
